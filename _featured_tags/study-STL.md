@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Algorithm
-slug: Algorithm
+title: STL
+slug: STL
 category: study
 menu: false
 order: 2

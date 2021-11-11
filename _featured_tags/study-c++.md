@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Algorithm
-slug: Algorithm
+title: C++ Basic
+slug: C++ Basic
 category: study
 menu: false
 order: 1
