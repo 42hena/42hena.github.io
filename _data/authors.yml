@@ -14,11 +14,11 @@ hena:
 
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/me.png
+    src:             /assets/img/snow.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:           #모바일전용
-      1x:            /assets/img/me.png
-      2x:            /assets/img/me.png
+      1x:            /assets/img/snow.jpg
+      2x:            /assets/img/snow.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -60,24 +60,7 @@ hena:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           somnium1108@gmail.com
-    rss:             https://hena42.github.io/feed.xml
-
-# Another author
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  social:
-    github:          <username>
-    twitter:         <username>
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
-  color: '#268bd2'
+    rss:             https://42hena.github.io/feed.xml
 
 # Another author
 author2:

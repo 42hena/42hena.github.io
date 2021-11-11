@@ -6,7 +6,7 @@ title:               전공 포기자의 블로그
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://hena42.github.io
+url:                 https://42hena.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -26,7 +26,7 @@ author:
   email:             xxxx@xxxx.com
 
 # Fallback image and color
-image:               /assets/img/main_left.JPG
+image:               /assets/img/snow.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.12. by 따라쟁이'
+copyright:           '&copy; 2021.11. by 전포자'
 
 # Format of the permalinks
 permalink:           
