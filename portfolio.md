@@ -22,22 +22,18 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 1996.11.8 대한민국
 
-> 연락처: khw11044@gmail.com
+> 연락처: somnium1108@gmail.com
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://github.com/42hena">https://github.com/42hena</a>
 
 
 ## Education
 ---
-> Mar.2015 ~ Feb.2021 한성대학교
+> Mar.2016 ~  세종대학교
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
-
-> Feb.2021 ~ 현재 : 고려대학교
->
-> 인공지능 대학원 (이성한 교수님 연구실)
+> 컴퓨터 공학과(Computer Science)
 
 
 ## Research Interest
