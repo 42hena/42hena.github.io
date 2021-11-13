@@ -1,5 +1,11 @@
 ---
-published: false
+title: '프로그래밍 대회에서 배우는 알고리즘 문제해결전략 [chapter 2]'
+layout: post
+subtitle: chapter 2
+categories: [Study]
+tags: [Algorithm]
+comments: true
+published: true
 ---
 ## 문제 해결 개관
 
